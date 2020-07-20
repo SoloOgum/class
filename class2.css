@@ -1,0 +1,132 @@
+body {
+    margin: 0px;
+    height: 100vh;
+}
+
+header {
+    background-color: navy;
+    display: flex;
+}
+
+header h1 {
+    margin: 0px;
+}
+
+.logo {
+    color: blue;
+    font-family: sans-serif;
+}
+nav {
+    margin-left: 60%;
+}
+
+nav ul {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav li {
+margin: 20px;
+list-style-type: none;
+font-weight: 400;
+display: inline;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+.section1 {
+    display: flex;
+}
+
+.section1 h1 {
+    text-align: center;
+    padding: 0%;
+}
+
+.section1a {
+    display: flex;
+}
+
+.section1a h1 {
+    text-align: center;
+    padding: 0%;
+}
+
+.div-one {
+    background-color: blueviolet;
+    justify-content: space-between;
+    padding: 5px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.div-two {
+background-color: goldenrod;
+justify-content: space-between;
+padding: 5px;
+box-sizing: border-box;
+padding: 20px;
+}
+
+.div-three {
+    background-color: green;
+    justify-content: space-between;
+    padding: 10px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.div-4 {
+    background-color: blue;
+    justify-content: space-between;
+    padding: 5px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.div-5 {
+background-color: blueviolet;
+justify-content: space-between;
+padding: 5px;
+box-sizing: border-box;
+padding: 20px;
+}
+
+.div-6 {
+    background-color: slateblue;
+    justify-content: space-between;
+    padding: 10px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.section2 {
+    background: url(img/glowing-eye.jpg) no-repeat center;
+    background-size: 100%;
+    color: white;
+    text-align: center;
+    height: 50vh;
+    margin: 0px;
+}
+
+h1 {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+h2 {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.footer-div {
+    text-align: center;
+    background-color: navy;
+    color: white;
+    margin: 0px;
+    padding: 20px;
+}
